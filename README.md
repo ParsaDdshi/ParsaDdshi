@@ -1,9 +1,4 @@
 <h1 align="center">Hi, I'm Parsa Dadashi</h1>  
-<img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/How_to_Become_a_Back_End_Developer.jpg">
-
-# 💫 About Me:
-
-Web developer, motivated looking for a role as a backend developer. I am interested in building web applications and I developed a simple shopping website and I’m currently working on a CMS-Project . Now I am learning ASP.NET Core by self-learning and I would like to continue my activities in this field.
   
 # 💻 Tech Stack :  
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
@@ -15,4 +10,4 @@ Web developer, motivated looking for a role as a backend developer. I am interes
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ParsaDdshi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ParsaDdshi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- How to reach me **ParsaDdshi2002@gmail.com**  
+- How to reach me **ParsaDdshi@gmail.com**  
